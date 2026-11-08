@@ -1,0 +1,1 @@
+pandas\nnumpy\nscikit-learn\nscipy\nmatplotlib\njupyter\nnotebook\njoblib\n
