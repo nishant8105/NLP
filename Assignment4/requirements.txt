@@ -1,0 +1,14 @@
+# Part 1: Word2Vec training and analysis
+gensim
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+scipy
+tensorflow
+datasets
+
+# Jupyter Notebook
+jupyter
+ipykernel
